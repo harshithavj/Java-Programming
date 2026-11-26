@@ -19,9 +19,7 @@ Java is widely used for developing desktop applications, web applications, enter
 
 ## 3. How Java Works
 
-Java follows the principle:
-
-**Write Once, Run Anywhere (WORA).**
+Java follows the principle:  **Write Once, Run Anywhere (WORA).**
 
 Java source code is not directly converted into machine code by the Java compiler. Instead, it is compiled into bytecode, which is executed by the JVM.
 
@@ -54,7 +52,7 @@ Java Source Code (.java file)
       v
     Output
 ```
-Java is platform independent/portable/Architectural Neutral
+Java is platform independent/portable/Architectural Neutral whereas JVM is platform dependent.
 
 ## 4. JDK, JRE and JVM
 
